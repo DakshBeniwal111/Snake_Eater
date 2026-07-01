@@ -1,2 +1,2 @@
 # Snake_Eater
-Game Development
+Snake_pyGame
